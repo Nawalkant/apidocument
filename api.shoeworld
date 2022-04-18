@@ -1,0 +1,8 @@
+list of brand 
+localhost:5100/brand https://shoeworld.herokuapp.com/brands
+
+list of category
+localhost:5100/category https://shoeworld.herokuapp.com/category
+
+list of tranding
+localhost:5100/tranding https://shoeworld.herokuapp.com/tranding
